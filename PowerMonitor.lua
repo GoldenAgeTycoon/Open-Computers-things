@@ -1,7 +1,3 @@
--- Create a file on your computer called startup.lua
--- Paste this in to the file using the insert key
--- Connect your computer to your desired power storage devices with cabled and adapters
--- Restart your computer and it will show a power monitor on screen 
 
 local component = require( "component" )
 local gpu = component.gpu
